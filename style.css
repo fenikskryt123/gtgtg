@@ -1,0 +1,42 @@
+header{
+  background-color:#0B1C0A;
+  padding: 50px;
+}
+*{
+  margin: 0px;
+}
+
+ a{
+  color: white;
+   text-decoration: none;
+   margin: 260px;
+   font-size: 20px;
+   background-color: #465B45;
+   padding: 5px 20px 5px 20px;
+   border-radius: 10px;
+}
+h1{
+  text-align: center;
+  margin: 40px auto;
+  background-color: #465B45; 
+  width: 300px;
+  border-radius: 10px;
+}
+.mainfoto{
+  margin-left: 230px;
+  width:900px;
+  height:800px;
+}
+table{
+  border: 5px solid black;
+  border-radius: 10px;
+  margin: 40px
+}
+li{
+  margin: 40px
+}
+img{
+   width: 250px ;
+  padding: 40px;
+}
+
